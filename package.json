@@ -1,0 +1,31 @@
+{
+  "name": "my_year_in_music",
+  "version": "1.0.0",
+  "description": "An express / mongo app for saving a history of your favorite music of the year.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cam9921/my_year_in_music.git"
+  },
+  "keywords": [
+    "javascript",
+    "ejs",
+    "mongo",
+    "express"
+  ],
+  "author": "Camden Taylor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cam9921/my_year_in_music/issues"
+  },
+  "homepage": "https://github.com/cam9921/my_year_in_music#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
